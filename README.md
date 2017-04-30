@@ -22,6 +22,8 @@ Angular 4 : The Little Book
 - [Testing](#testing)
 - [Hybrid Application with Ionic 3](#hybrid-application-with-ionic-3)
     - [Prerequisites](#prerequisites-1)
+    - [Sample Project](#sample-project-1)
+- [Links](#links)
 
 <!-- /TOC -->
 
@@ -54,3 +56,7 @@ npm install -g @angular/cli
 ## Testing
 ## Hybrid Application with Ionic 3
 ### Prerequisites
+### Sample Project
+## Links
+ - [AngularJS 4 Trivia Quiz-App](https://github.com/chihebnabil/AngularJS-4-Quiz-App)
+
