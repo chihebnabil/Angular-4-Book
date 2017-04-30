@@ -3,6 +3,8 @@
 - [Your First Angular 4 Web Application](#your-first-angular-4-web-application)
     - [Getting started](#getting-started)
     - [Angular-cli](#angular-cli)
+        - [Prerequisites](#prerequisites)
+        - [Installation](#installation)
     - [Sample Project](#sample-project)
     - [Adding CSS](#adding-css)
 - [Quiz Application](#quiz-application)
@@ -19,6 +21,12 @@
 In this chapter we’re going to build an application that allows the user  generate a quiz from a json file
 ### Getting started
 ### Angular-cli
+#### Prerequisites
+#### Installation
+**BEFORE YOU INSTALL:** please read the [prerequisites](#prerequisites)
+```bash
+npm install -g @angular/cli
+```
 ### Sample Project
 ### Adding CSS 
 ## Quiz Application
