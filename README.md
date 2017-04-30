@@ -20,6 +20,8 @@ Angular 4 : The Little Book
 - [HTTP](#http)
 - [Routing](#routing)
 - [Testing](#testing)
+- [Hybrid Application with Ionic 3](#hybrid-application-with-ionic-3)
+    - [Prerequisites](#prerequisites-1)
 
 <!-- /TOC -->
 
@@ -50,4 +52,5 @@ npm install -g @angular/cli
 ## HTTP 
 ## Routing
 ## Testing
-
+## Hybrid Application with Ionic 3
+### Prerequisites
