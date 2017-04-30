@@ -15,7 +15,7 @@ Angular 4 : The Little Book
     - [Ng-If](#ng-if)
     - [NgSwitch](#ngswitch)
     - [NgClass](#ngclass)
-    - [For](#for)
+    - [NgFor](#ngfor)
 - [Forms](#forms)
 - [HTTP](#http)
 - [Routing](#routing)
@@ -50,3 +50,4 @@ npm install -g @angular/cli
 ## HTTP 
 ## Routing
 ## Testing
+
