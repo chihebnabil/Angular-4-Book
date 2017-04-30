@@ -45,7 +45,7 @@ npm install -g @angular/cli
 ### Ng-If
 ### NgSwitch
 ### NgClass
-### For
+### NgFor
 ## Forms
 ## HTTP 
 ## Routing
