@@ -7,7 +7,7 @@ Angular 4 : The Little Book
     - [Angular-cli](#angular-cli)
         - [Prerequisites](#prerequisites)
         - [Installation](#installation)
-        - [Commands](#commands)
+        - [Usage](#usage)
 - [Quiz Application](#quiz-application)
 - [Typescript](#typescript)
 - [Components](#components)
@@ -30,7 +30,7 @@ Angular 4 : The Little Book
 In this chapter we’re going to build an application that allows the user  generate a quiz from a json file
 ### Getting started
 ### Angular-cli
-Angular-cli is a command line tool for creating Angular applicaions ,generate components, routes, services and pipes 
+[Angular-cli](https://github.com/angular/angular-cli#usage) is a command line tool for creating Angular applicaions ,generate components, routes, services and pipes 
 #### Prerequisites
 - Make Sure that you have  Node 6.9.0 or higher,  with NPM 3 or higher installed
 ```bash
@@ -41,7 +41,7 @@ node --version
 ```bash
 npm install -g @angular/cli
 ```
-#### Commands
+#### Usage
 
 ```bash
 ng new
@@ -52,10 +52,17 @@ you can also pass other [parameters](https://github.com/angular/angular-cli/wiki
 ```bash
 ng generate
 ```
+it takes the blueprint as parameter (class , component , directive ....) , you can check the list of all available blueprints 
+[here](https://github.com/angular/angular-cli/wiki/generate#available-blueprints)
 
 ```bash
 ng serve
 ```
+Builds the application and starts a web server ,buy default it uses the port 4000,  you can change it by adding this paramater --port (aliases: -p) , 
+additional options are  [here](https://github.com/angular/angular-cli/wiki/serve#options)
+
+- **NOTE**  When running ng serve, the compiled output is served from memory, not from disk. This means that the application being served is not located on disk in the dist folder.
+
 ## Quiz Application
 ## Typescript
 ## Components
