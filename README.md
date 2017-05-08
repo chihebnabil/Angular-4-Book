@@ -7,8 +7,7 @@ Angular 4 : The Little Book
     - [Angular-cli](#angular-cli)
         - [Prerequisites](#prerequisites)
         - [Installation](#installation)
-    - [Sample Project](#sample-project)
-    - [Adding CSS](#adding-css)
+        - [Commands](#commands)
 - [Quiz Application](#quiz-application)
 - [Typescript](#typescript)
 - [Components](#components)
@@ -22,7 +21,7 @@ Angular 4 : The Little Book
 - [Testing](#testing)
 - [Hybrid Application with Ionic 3](#hybrid-application-with-ionic-3)
     - [Prerequisites](#prerequisites-1)
-    - [Sample Project](#sample-project-1)
+    - [Sample Project](#sample-project)
 - [Links](#links)
 
 <!-- /TOC -->
@@ -31,6 +30,7 @@ Angular 4 : The Little Book
 In this chapter we’re going to build an application that allows the user  generate a quiz from a json file
 ### Getting started
 ### Angular-cli
+Angular-cli is a command line tool for creating Angular applicaions ,generate components, routes, services and pipes 
 #### Prerequisites
 - Make Sure that you have  Node 6.9.0 or higher,  with NPM 3 or higher installed
 ```bash
@@ -41,8 +41,19 @@ node --version
 ```bash
 npm install -g @angular/cli
 ```
-### Sample Project
-### Adding CSS 
+#### Commands
+
+```bash
+ng new
+```
+
+```bash
+ng generate
+```
+
+```bash
+ng serve
+```
 ## Quiz Application
 ## Typescript
 ## Components
