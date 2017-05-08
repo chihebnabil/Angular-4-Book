@@ -46,6 +46,8 @@ npm install -g @angular/cli
 ```bash
 ng new
 ```
+this command creates a new angular application ,it takes one parameter [name] , it will be created in the current location in [name] directory , 
+you can also pass other [parameters](https://github.com/angular/angular-cli/wiki/new) such as  -dir  , --style 
 
 ```bash
 ng generate
